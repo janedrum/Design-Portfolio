@@ -1,1 +1,2 @@
-# Design-Portfolio
+# Design Portfolio
+## Jane Drummond
